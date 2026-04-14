@@ -45,9 +45,15 @@ Using a real-world satellite dataset (`satcat.tsv`), this project:
 
 ### 🔹 Visualizations
 - Polar plots showing orbital distribution
+![Orbital Plot](output.png)
+
+
 - Time-series plots of debris growth
-- Comparative plots of active vs debris satellites
+![Trend](output2.png)
+
+
 - Country-based comparisons using stacked and dot visualizations
+![Contribution](output3.png)
 
 ---
 
